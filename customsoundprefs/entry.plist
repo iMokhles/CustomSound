@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CustomSoundPrefs;
+	cell = PSLinkCell;
+	detail = CustomSoundPrefsListController;
+	icon = CustomSoundPrefs.png;
+	isController = 1;
+	label = CustomSound;
+    };
+}
